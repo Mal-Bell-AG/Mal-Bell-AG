@@ -2,7 +2,7 @@
 
 I'm a scientist and VTuber, affiliated with **Amber Glow**.
 
-- I'm working on machine learning, data analysis, and video game design.
+- I'm working on machine learning, data analysis, and video game design and development.
 - I'm _currently_ learning *Keras* and *Tensorflow*, and finding interesting applications for the *Live2D* SDK and *Ren'Py*.
 - I'd love to learn more about **networking** and **Unreal Engine 4/5**
 - I'm looking to collaborate on creating fun and informative content.
